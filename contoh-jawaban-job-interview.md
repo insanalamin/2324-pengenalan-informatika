@@ -1,6 +1,7 @@
-## 1.1 Latar Belakang
-
-bla bla bla
+1.1 Latar Belakang
+MEMBUAT WEBSITE DIGITAL MARKETING 
+Perkembangan dalam bidang digital marketing terus berlanjut seiring dengan evolusi teknologi, perilaku konsumen, dan strategi pemasaran.
+Ada banyak strategi dan taktik dalam digital marketing yang dapat sangat membantu meningkatkan visibilitas merek, menjangkau audiens yang lebih besar, dan menghasilkan hasil yang positif.
 
 ## 1.2. Deksripsi Teknologi Informasi
 
