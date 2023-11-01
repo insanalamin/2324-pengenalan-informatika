@@ -1,20 +1,28 @@
 ## 1.1 Latar Belakang
 
-bla bla bla
+latar belakang saya bikin game pukul tikus tanah ini selain dari nostalgia dari game yang suka ada di tempat wahayana game, selain itu sebagai edukasi khususnya kepada anak-anak yang manfaatnya untuk : 
+konsentrasi dan reaksi cepat yang bermanfaat bagi perkembangan otak anak-anak
+memerhatikan kedetailan dan ke fokusan secara cermat terhadap tikus yang muncul
+melatih kesabaran dan konsentrasi
+melatih keputusan secara cepat
 
 ## 1.2. Deksripsi Teknologi Informasi
 
-bla bla bla
-
+Game ini berguna untuk melatih keterampilan anak-anak agar dapat berkonsentrasi, berfikir cepat, serta melatih kesabaran 
+tidak hanya itu game ini juga baik terhadap perkembangan otak anak- anak karena dalam fase ini otak sensorik anak masih sensitif dan mudah untuk meyerap apa yang di tangkap oleh mata. sehingga Game ini berguna untuk melatih kesabaran ,serta berfikir cepat
 ## 1.3. Branding
 
-bla bla bla
+untuk anak-anak usia 7+
+Tema : Untuk melatih pola berfikir anak dengan cepat.
+      * Befikir cepat, tanggap
+      * Bermanfaat untuk perkembangan otak anak 
 
 ## 2. User Story
 
-bla | bla | bla | bla
----|---|---|---
-bla | bla | bla | ⭐⭐⭐⭐⭐
+untuk anak-anak usia 7+
+Tema : Untuk melatih pola berfikir anak dengan cepat.
+      * Befikir cepat, tanggap
+      * Bermanfaat untuk perkembangan otak anak 
 
 ## 3. Struktur Data
 
